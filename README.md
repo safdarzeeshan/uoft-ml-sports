@@ -49,11 +49,6 @@ The dataset is structured into three subsets:
 
 Each folder contains subdirectories named after individual sports, holding image samples. This structure supports supervised learning with categorical labels.
 
-## Notes
-
-- The project focuses on building a scalable solution for multi-class classification.
-- Generalization across a large number of classes is a key consideration.
-
 ## Acknowledgments
 
 - University of Toronto - School of Continuing Studies
